@@ -1,3 +1,6 @@
+## Case Study
+Here's a case study on how we advanced agent interoperability: https://www.humansimulation.ai/case-studies/startup
+
 ## Inspiration
 The inspiration for Stealth Startup came from the idea of automating the entire process of building a company. We wanted to create intelligent agents that simulate the roles of a CEO, CTO, and Marketer, each contributing to building out a startup from scratch, mirroring the experience of launching a real-world tech startup and seeing how a particular idea would play out in a given market.
 
